@@ -1,3 +1,7 @@
+/* Done by;
+ Tusime Godwin
+ Ineza Racheal 
+ Opiyo Christopher */
 const chai = require("chai");
 const assertArrays = require("chai-arrays");
 const fibonacci = require("../fabinacii");
