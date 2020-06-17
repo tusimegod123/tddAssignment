@@ -1,3 +1,7 @@
+/* Done by;
+ Tusime Godwin
+ Ineza Racheal 
+ Opiyo Christopher */
 module.exports = class MathsService {
   factorial(number) {
     if (number == 0) return 1;
