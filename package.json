@@ -1,0 +1,19 @@
+{
+  "name": "factorial",
+  "version": "1.0.0",
+  "description": "Factorial and fabinacii",
+  "main": "factorial.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "Godwin,Racheal and Christopher",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-arrays": "^2.0.0",
+    "mocha": "^8.0.1"
+  }
+}
