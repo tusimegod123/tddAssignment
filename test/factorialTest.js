@@ -1,3 +1,7 @@
+/* Done by;
+ Tusime Godwin
+ Ineza Racheal 
+ Opiyo Christopher */
 const assertEqual = require("chai").assert;
 const MathsService = require("../factorial");
 const chai = require("chai");
