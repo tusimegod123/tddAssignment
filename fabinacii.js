@@ -1,3 +1,7 @@
+/* Done by;
+ Tusime Godwin
+ Ineza Racheal 
+ Opiyo Christopher */
 var fibonacci = function (result, length) {
   var number1 = result[0],
     number2 = result[1],
